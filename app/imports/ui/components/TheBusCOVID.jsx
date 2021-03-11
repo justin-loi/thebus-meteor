@@ -18,7 +18,8 @@ export default class TheBusCOVID extends React.Component {
           <Divider/>
 
           <Container textAlign="left">
-            <p> A Presidential Executive Order and New Centers For Disease Control (CDC) Regulations now requires ALL passengers (riders) to wear a Mask while riding public transportation. The regulation states specific types of mask that are acceptable and those that are no longer acceptable to wear while riding public transit.</p>
+            <p> A Presidential Executive Order and New Centers For Disease Control (CDC) Regulations now requires ALL passengers (riders) to wear a Mask while riding public transportation.
+              The regulation states specific types of mask that are acceptable and those that are no longer acceptable to wear while riding public transit.</p>
             <p>In addition to wearing a mask while boarding and throughout the ride, riders are also required to wear their masks while waiting at a transit center facility.</p>
           </Container>
 
